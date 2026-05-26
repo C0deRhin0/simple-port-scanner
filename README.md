@@ -53,12 +53,12 @@ python3 simple_port_scanner.py --ip_range <IP_RANGE> --port_range <PORT_RANGE> [
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/C0deRhin0/Simple_Port_Scanner.git
+   git clone https://github.com/C0deRhin0/simple-port-scanner.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Simple_Port_Scanner
+   cd simple-port-scanner
    ```
 
 3. Running the script:
