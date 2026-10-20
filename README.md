@@ -108,3 +108,11 @@ For any inquiries or support, please contact:
 - **GitHub**: [C0deRhin0](https://github.com/C0deRhin0)
 
 ---
+
+## Captures
+
+Actual scan of a single disposable loopback service.
+
+![Simple Port Scanner: Actual scan of a single disposable loopback service.](docs/screenshots/desktop.webp)
+
+Full capture descriptions and provenance: [captures.json](docs/screenshots/captures.json).

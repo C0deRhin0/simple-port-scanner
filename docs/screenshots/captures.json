@@ -1,0 +1,14 @@
+{
+  "project": "Simple Port Scanner",
+  "kind": "CLI evidence",
+  "note": "Actual scan of a single disposable loopback service.",
+  "capturedAt": "2026-10-23T05:46:47.739Z",
+  "screens": [
+    {
+      "file": "desktop.webp",
+      "caption": "Simple Port Scanner: Actual scan of a single disposable loopback service.",
+      "width": 1440,
+      "height": 1000
+    }
+  ]
+}
